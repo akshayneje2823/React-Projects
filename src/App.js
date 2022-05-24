@@ -1,8 +1,11 @@
 import React from 'react'
+import Cards from './Card/Cards'
 
 function App() {
   return (
-    <div>App</div>
+    <div>
+      <Cards />
+    </div>
   )
 }
 
