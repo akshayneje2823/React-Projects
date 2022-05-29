@@ -1,10 +1,13 @@
 import React from 'react'
-import Cards from './Card/Cards'
+import Time2 from './Time2'
+import Timer from './Timer'
 
 function App() {
+  
   return (
     <div>
-      <Cards />
+     <Timer/>
+     <Time2/>
     </div>
   )
 }
